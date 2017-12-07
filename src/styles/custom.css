@@ -1,0 +1,35 @@
+#cover{
+  flex:1;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  height: 700px;
+  background-image: url("../image/road.jpeg");
+  background-size: cover;
+  background-position: right center;
+}
+
+#back{
+  flex:1;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  height: 700px;
+  background-image: url("../image/tree.jpeg");
+  background-size: cover;
+  background-position: right center;
+
+}
+#Jumbo{
+  background-color: white;
+ 
+  
+}
+#login{
+  flex:1;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  height: 700px;
+  background-image: url("../image/mountain.jpg");
+  background-size: cover;
+  background-position: right center;
+
+}
